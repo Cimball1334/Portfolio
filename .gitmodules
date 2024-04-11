@@ -22,3 +22,15 @@
 [submodule "Personal Projects/Personal-Projects"]
 	path = Personal Projects/Personal-Projects
 	url = https://github.com/Cimball1334/Personal-Projects.git
+[submodule "Research Projects/FOOS-Oriam"]
+	path = Research Projects/FOOS-Oriam
+	url = https://github.com/Cimball1334/FOOS-Oriam.git
+[submodule "Research Projects/Oriam-OS"]
+	path = Research Projects/Oriam-OS
+	url = https://github.com/Cimball1334/Oriam-OS.git
+[submodule "Research Projects/SecureLogin"]
+	path = Research Projects/SecureLogin
+	url = https://github.com/Cimball1334/SecureLogin.git
+[submodule "Research Projects/SecureCommunication"]
+	path = Research Projects/SecureCommunication
+	url = https://github.com/Cimball1334/SecureCommunication.git
