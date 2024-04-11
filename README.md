@@ -47,8 +47,9 @@
     <!--
     </div>
     <div class="column">
-    -->
+    
         <img src="https://imgur.com/xgFfe17.png" width="350">
+    -->
     <!--</div>-->
 </div>
 
