@@ -1,0 +1,6 @@
+[submodule "Classwork/Portfolio"]
+	path = Classwork/Portfolio
+	url = https://github.com/Cimball1334/Portfolio.git
+[submodule "Classwork/APCSA"]
+	path = Classwork/APCSA
+	url = https://github.com/Cimball1334/APCSA.git
