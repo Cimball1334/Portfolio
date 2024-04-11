@@ -10,3 +10,12 @@
 [submodule "Classwork/CS112"]
 	path = Classwork/CS112
 	url = https://github.com/Cimball1334/CS112.git
+[submodule "Classwork/CS222"]
+	path = Classwork/CS222
+	url = https://github.com/Cimball1334/CS222.git
+[submodule "Classwork/CYSE130"]
+	path = Classwork/CYSE130
+	url = https://github.com/Cimball1334/CYSE130.git
+[submodule "Classwork/SYST230"]
+	path = Classwork/SYST230
+	url = https://github.com/Cimball1334/SYST230.git
