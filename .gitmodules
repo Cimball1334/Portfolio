@@ -4,3 +4,9 @@
 [submodule "Classwork/APCSA"]
 	path = Classwork/APCSA
 	url = https://github.com/Cimball1334/APCSA.git
+[submodule "Classwork/--force"]
+	path = Classwork/--force
+	url = https://github.com/Cimball1334/CS112.git
+[submodule "Classwork/CS112"]
+	path = Classwork/CS112
+	url = https://github.com/Cimball1334/CS112.git
