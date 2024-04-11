@@ -15,6 +15,7 @@
 
 <!-- Portfolio Information -->
 
+<!--
 <style>
 .column {
   float: left;
@@ -29,8 +30,9 @@
 </style>
 
 <div class="row">
-    <div class="column">
-        <h2>Languages</h2>
+    <div class="column"> -->
+
+<h2>Languages</h2>
         <ul>
             <li> 
                 <img align="center" src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" width="30">
@@ -42,10 +44,12 @@
                 <img align="center" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="30">
                 Python, C#
         </ul>
+    <!--
     </div>
     <div class="column">
+    -->
         <img src="https://imgur.com/xgFfe17.png" width="350">
-    </div>
+    <!--</div>-->
 </div>
 
 ## Portfolio
