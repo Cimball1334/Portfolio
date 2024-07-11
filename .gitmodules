@@ -19,8 +19,8 @@
 [submodule "Classwork/SYST230"]
 	path = Classwork/SYST230
 	url = https://github.com/Cimball1334/SYST230.git
-[submodule "Personal Projects/Personal-Projects"]
-	path = Personal Projects/Personal-Projects
+[submodule "Personal-Projects"]
+	path = Personal-Projects
 	url = https://github.com/Cimball1334/Personal-Projects.git
 [submodule "Research Projects/FOOS-Oriam"]
 	path = Research Projects/FOOS-Oriam
